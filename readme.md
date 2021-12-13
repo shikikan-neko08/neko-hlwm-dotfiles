@@ -7,7 +7,7 @@
 
 # Details     
 OS : Arch Linux      
-WM : herbstluftwn     
+WM : herbstluftwm     
 Terminal : kitty      
 Shell : zsh     
 Theme : [Mint Y](https://aur.archlinux.org/packages/mint-y-icons/)     
