@@ -14,7 +14,10 @@ Theme : [Mint Y](https://aur.archlinux.org/packages/mint-y-icons/)
 Icons : [Mint Y](https://aur.archlinux.org/packages/mint-themes/)
 # Installation 
 clone this repository then copy all .config files to your home directory and copy the theme into home directory.        
-for icons and themes you can install it manually using the link presented above.
+for icons and themes you can install it manually using the link presented above.      
+
+> yay -S mint-themes mint-y-icons       
+
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)     
  * [kitty](https://github.com/kovidgoyal/kitty)     
