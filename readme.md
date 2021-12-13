@@ -23,8 +23,7 @@ for icons and themes you can install it manually using the link presented above.
  * [kitty](https://github.com/kovidgoyal/kitty)     
  * [Herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)    
  * [Polybar](https://github.com/polybar/polybar)     
- * nitrogen     
- * Font Awesome    
+ * nitrogen         
  * material fonts (included)     
  * [clearine](https://github.com/okitavera/clearine)
 
