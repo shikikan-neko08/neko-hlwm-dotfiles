@@ -21,7 +21,7 @@ for icons and themes you can install it manually using the link presented above.
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)     
  * [kitty](https://github.com/kovidgoyal/kitty)     
- * [i3-gaps](https://github.com/Airblader/i3)    
+ * [Herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)    
  * [Polybar](https://github.com/polybar/polybar)     
  * nitrogen     
  * Font Awesome    
