@@ -1,0 +1,33 @@
+call plug#begin('~/.vim/plugged')
+
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+call plug#end()
+
+let g:airline_theme='selenized_bw'
+
+
+
+let background = "#fefefd"
+let foreground = "#496544"
+let cursor     = "#496544"
+
+" Colors
+let color0  = "#fefefd"
+let color1  = "#A7B398"
+let color2  = "#E1B192"
+let color3  = "#B2CC8E"
+let color4  = "#E2DBA1"
+let color5  = "#F0F3B2"
+let color6  = "#DED8CE"
+let color7  = "#496544"
+let color8  = "#979793"
+let color9  = "#A7B398"
+let color10 = "#E1B192"
+let color11 = "#B2CC8E"
+let color12 = "#E2DBA1"
+let color13 = "#F0F3B2"
+let color14 = "#DED8CE"
+let color15 = "#496544"
+
