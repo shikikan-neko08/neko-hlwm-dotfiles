@@ -24,7 +24,7 @@ for icons and themes you can install it manually using the link presented above.
  * [Herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)    
  * [Polybar](https://github.com/polybar/polybar)     
  * nitrogen         
- * material fonts (included)     
+ * font awesome     
  * [clearine](https://github.com/okitavera/clearine)
 
 
